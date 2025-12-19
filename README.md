@@ -230,12 +230,6 @@ Desenvolvimento de plataforma digital para serviços de psicologia, conectando p
 * Liderança simultânea das áreas de Desenvolvimento, Marketing e Comercial, coordenando equipes técnicas e comerciais e implementando processos ágeis
 * Implementação de operação centrada na excelência do atendimento, otimizando jornada do cliente e desenvolvendo interfaces intuitivas
 
-### 📊 Analista de Informação e Comunicação
-
-**Fundação Oswaldo Cruz - FIOCRUZ** | Agosto 2009 - Março 2015
-
-* Coordenação operacional do Laboratório de Digitalização, implementando fluxos de trabalho eficientes e controle de qualidade
-* Desenvolvimento de plataforma web para consulta de acervo, modernizando processos e transformando o acesso à informação
 
 ---
 
@@ -284,7 +278,7 @@ Desenvolvimento de plataforma digital para serviços de psicologia, conectando p
 
 * **E-mail:** [raulsantanas@gmail.com](mailto:raulsantanas@gmail.com)
 * **LinkedIn:** [raulsantana-87](https://www.linkedin.com/in/raulsantana-87/)
-* **GitHub:** [raulsantana](https://github.com/raulsantana)
+* **GitHub:** [raulsantanas](https://github.com/raulsantanas)
 * **Telefone:** (21) 99224-9855
 
 ---
