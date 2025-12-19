@@ -230,7 +230,6 @@ Desenvolvimento de plataforma digital para serviços de psicologia, conectando p
 * Liderança simultânea das áreas de Desenvolvimento, Marketing e Comercial, coordenando equipes técnicas e comerciais e implementando processos ágeis
 * Implementação de operação centrada na excelência do atendimento, otimizando jornada do cliente e desenvolvendo interfaces intuitivas
 
-
 ---
 
 ## 🎓 Formação & Certificações
