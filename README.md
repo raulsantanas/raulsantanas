@@ -260,14 +260,6 @@ Desenvolvimento de plataforma digital para serviços de psicologia, conectando p
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulsantana&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raulsantana&layout=compact&theme=radical)
-
----
-
 ## 🔥 Contribuições
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=raulsantana&theme=radical)
